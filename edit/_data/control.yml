@@ -11,7 +11,7 @@ main_page:
   popup:
     view: true
     # link: /congratulation/26th/
-    link: /recruitment/39th/
+    link: /recruitment/40th/
     image: /images/recruits/2025/40th_recruiting_poster.jpg
   quote:         true
   quick_view:    true
@@ -29,5 +29,5 @@ main_page:
 recruit:
   ing:           true
   apply_file:  /files/recruits/39th_application.docx
-  promo_file:    /files/recruits/39th_leaflet.pdf
+  promo_file:    /files/recruits/40th_leaflet.pdf
   email:         recruit@enactus-skk.org
