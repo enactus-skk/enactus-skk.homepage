@@ -19,7 +19,7 @@
 - title:           Social
   links:
     - name:        Email
-      link:        mailto: enactus.skk@gmail.com
+      link:        mailto:enactus.skk@gmail.com
       social_icon: Email
       new_window:  false
     - name:        YouTube
