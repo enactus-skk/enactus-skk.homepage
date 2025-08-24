@@ -44,4 +44,4 @@ num : 21
 + **강연 내용**: 모의기획에서 기획한 BM(비즈니스 모델) 발표
 + **참여대상**: 전국 인액터스 신입기수 회원
 
-![](/images/what-we-do/workshop.jpg)
+![](/images/what-we-do/40th_연합pic.jpg)
