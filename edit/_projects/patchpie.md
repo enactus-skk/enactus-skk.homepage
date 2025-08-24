@@ -6,7 +6,7 @@ description: |
 start_year: 2025
 end_year: 2025
 external_url: "" 
-image: /images/projects/patchpie/39th_patch_1.png
+image: /images/projects/patchpie/KakaoTalk_Photo_2025-08-18-02-51-26 009.jpeg
 ---
 
 >"Forgotten pieces into everyday treasure | 잊힌 조각들, 일상의 보물이 되다.” 
