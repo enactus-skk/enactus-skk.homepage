@@ -6,7 +6,7 @@ description: |
 start_year: 2025
 end_year: 2025
 external_url:
-image: /images/projects/anjeonsangjeom/KakaoTalk_Photo_2025-08-20-01-15-11.jpeg
+image: /images/projects/anjeonsangjeom/KakaoTalk_20250825_001131137.png
 ---
 >**"일상 속 안전을 선물하다"**
 >
