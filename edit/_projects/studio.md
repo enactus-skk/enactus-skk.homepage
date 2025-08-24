@@ -7,7 +7,7 @@ description: |
 start_year: 2024
 end_year: 2025
 external_url: "" 
-image: /images/projects/studio/40th_studio_1.png.jpeg
+image: /images/projects/studio/KakaoTalk_20250824_234814511_02.png
 ---
 
 >"게임 너머 당신에게로, 게임을 넘어 세상으로" 
