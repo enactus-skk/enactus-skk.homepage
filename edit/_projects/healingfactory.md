@@ -6,7 +6,7 @@ description: |
 start_year: 2025
 end_year: 2025
 external_url:
-image: /images/projects/healingfactory/KakaoTalk_20250825_001836191.jpg
+image: /images/projects/healingfactory/KakaoTalk_20260204_223507726.jpg
 ---
 >**"누구나 누군가의 이정표가 될 수 있다."**
 >
