@@ -11,8 +11,8 @@ main_page:
   popup:
     view: true
     # link: /congratulation/26th/
-    link: /recruitment/41th/
-    image: /images/recruits/2026/41th_Poster.png
+    link: /recruitment/41st/
+    image: /images/recruits/2026/41st_Poster.png
   quote:         true
   quick_view:    true
   projects:
@@ -28,6 +28,6 @@ main_page:
 # 리쿠르팅 시 수정 2
 recruit:
   ing:           true
-  apply_file:  /files/recruits/41th Recruiting 지원서.docx
-  promo_file:    /files/recruits/41th_Leaflet.pdf
+  apply_file:  /files/recruits/41st_Recruiting_Application.docx
+  promo_file:    /files/recruits/41st_Leaflet.pdf
   email:         enactus.skku.recruit2@gmail.com
