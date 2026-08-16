@@ -4,7 +4,7 @@ title: 안전상점
 description: |
  "일상 속 안전아이템으로 모두가 안심할 수 있는 일상을 선물합니다."
 start_year: 2025
-end_year: 2025
+end_year: 2026
 external_url:
 image: /images/projects/anjeonsangjeom/KakaoTalk_20260208_233136866.jpg
 ---
