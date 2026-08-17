@@ -6,7 +6,7 @@ description: |
 start_year: 2025
 end_year: 2026
 external_url:
-image: /images/projects/healingfactory/hf_01.jpg
+image: /images/projects/healingfactory/hf_02.jpg
 ---
 >**"누구나 누군가의 이정표가 될 수 있다."**
 >
