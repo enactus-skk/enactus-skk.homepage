@@ -6,7 +6,7 @@ description: |
 start_year: 2025
 end_year: 2026
 external_url:
-image: /images/projects/anjeonsangjeom/ajsj_01.jpeg
+image: /images/projects/anjeonsangjeom/ajsj_main.jpeg
 ---
 >**"일상 속 안전을 선물하다"**
 >
