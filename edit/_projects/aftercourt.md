@@ -6,7 +6,7 @@ description: |
 start_year: 2026
 end_year: 2026
 external_url:
-image: /images/projects/anjeonsangjeom/ac_main.jpeg
+image: /images/projects/aftercourt/ac_main.jpg
 ---
 >**"코트를 떠난 깃털, 다시 날아오르다"**
 >
