@@ -36,8 +36,10 @@ NC에서 우승한 **챔피언 팀**은 *그 해의 인액터스 월드컵에 �
 + 2020 - ESC, Rising Star
 + 2021 - 2nd place
 + 2024 - Semi-Finalist
++ 2026 - 4th place
 
 ![](/images/what-we-do/nc-win-2013-md.jpg)
+![](/images/what-we-do/nc2026.png)
 
 ![](/images/what-we-do/history-2007.png)
 ![](/images/what-we-do/history-2013.jpg)
