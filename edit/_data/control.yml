@@ -28,6 +28,6 @@ main_page:
 # 리쿠르팅 시 수정 2
 recruit:
   ing:           true
-  apply_file:  /files/recruits/41st_Recruiting_Application.docx
-  promo_file:    /files/recruits/41st_Leaflet.pdf
+  apply_file:  /files/recruits/42nd-Recruiting-지원서.docx
+  promo_file:    /files/recruits/2026-하반기-인액터스-성균관-리크루팅-리플렛.pdf
   email:         enactus.skku.recruit2@gmail.com
